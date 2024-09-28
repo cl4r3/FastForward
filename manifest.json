@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Fast Forward",
+  "Author": "ch20youk",
+  "Version": "1.0.0",
+  "Description": "Speed up the game with the press of a button (or two).",
+  "UniqueID": "ch20youk.fastforward",
+  "EntryDll": "FastForward.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:28198" ]
+}
